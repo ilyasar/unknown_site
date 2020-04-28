@@ -1,0 +1,22 @@
+.fog{
+    background-image: url("fog.jpg");
+    background-size: 1370px ;
+    padding-bottom: 700px;
+}
+.milky-way{
+    background-image: url("milky-way.jpg");
+    background-size: 1370px ;
+    padding-bottom: 500px;
+    font-family: 'Indie Flower', cursive;
+    color:white;
+}
+.title{
+    font-size: 40px;
+}
+.road{
+    background-image: url("road.jpg");
+    background-size: 1370px ;
+    padding-bottom: 440px;
+    font-family: 'Indie Flower', cursive;
+    color:white;
+}
