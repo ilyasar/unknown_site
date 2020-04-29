@@ -1,3 +1,6 @@
+.body{
+    background-color: black;
+}
 .fog{
     background-image: url("fog.jpg");
     background-size: 1370px ;
